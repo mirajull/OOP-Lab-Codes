@@ -1,0 +1,70 @@
+Constructing Employee 1340 of bank Brac Bank
+Constructing Customer 3015 of bank Brac Bank
+
+Modifying emp1 and cust1:
+--------------------------------------
+Employee card: 1340
+Salary: 30000
+Earned increment: 500.5
+
+
+Customer card: 3015
+No. of purchase: 9
+Earned discount: 850.5
+--------------------------------------
+
+--------------------------------------
+Employee card: 1340
+Salary: 30000
+Earned increment: 500.5
+
+
+Customer card: 3015
+No. of purchase: 9
+Earned discount: 850.5
+--------------------------------------
+
+In constructor for Mr. X
+In constructor for Mr. X
+Destructing Bank
+In constructor for Mr. X
+In constructor for Mr. X
+Destructing Bank
+
+
+Modifying emp2 and cust2:
+--------------------------------------
+Employee card: 2219
+Salary: 44000
+Earned increment: 480
+
+
+Customer card: 2219
+No. of purchase: 12
+Earned discount: 370
+--------------------------------------
+
+--------------------------------------
+Employee card: 2219
+Salary: 42800
+Earned increment: 480
+
+
+Customer card: 2219
+No. of purchase: 12
+Earned discount: 6130
+--------------------------------------
+
+--------------------------------------
+Person name: Mr. X
+Age: 35
+--------------------------------------
+Customer card: 3015
+No. of purchase: 9
+Earned discount: 850.5
+--------------------------------------
+Destructing Bank
+Destructing Bank
+Destructing Bank
+Destructing Bank
+Destructing Bank

@@ -1,0 +1,6 @@
+colorfulcircles.ColorfulCircles$2
+colorfulcircles.ColorfulCircles$1
+colorfulcircles.ColoourfulCircles
+colorfulcircles.ColoourfulCircles$1
+colorfulcircles.ColorfulCircles
+colorfulcircles.ColoourfulCircles$2
